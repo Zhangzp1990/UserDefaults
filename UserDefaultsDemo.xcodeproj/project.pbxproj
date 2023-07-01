@@ -85,6 +85,7 @@
 		024FCD632A484CD00092FFEF = {
 			isa = PBXGroup;
 			children = (
+				024FCD9F2A484D1E0092FFEF /* UserDefaults */,
 				024FCD6E2A484CD00092FFEF /* UserDefaultsDemo */,
 				024FCD852A484CD20092FFEF /* UserDefaultsDemoTests */,
 				024FCD8F2A484CD20092FFEF /* UserDefaultsDemoUITests */,
@@ -105,7 +106,6 @@
 		024FCD6E2A484CD00092FFEF /* UserDefaultsDemo */ = {
 			isa = PBXGroup;
 			children = (
-				024FCD9F2A484D1E0092FFEF /* UserDefaults */,
 				024FCD6F2A484CD00092FFEF /* AppDelegate.swift */,
 				024FCD712A484CD00092FFEF /* SceneDelegate.swift */,
 				024FCD732A484CD00092FFEF /* ViewController.swift */,
